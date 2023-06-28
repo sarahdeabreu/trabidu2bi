@@ -1,6 +1,6 @@
     create table cliente(
     id int not null primary key auto_increment,
-    nome varchar(45)
+    nome varchar(40)
 );
 
 
